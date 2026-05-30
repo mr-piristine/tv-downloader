@@ -5,10 +5,26 @@
 
 -----
 
+## Description:
+TradingView historical data downloader and market data archival tool.
+
+## Topics:
+- tradingview
+- market-data
+- downloader
+- python
+- financial-data
+- timeseries
+
+---- 
+
 ## Table of Contents
 
 - [Installation](#installation)
 - [License](#license)
+
+
+
 
 ## Installation
 
