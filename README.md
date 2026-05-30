@@ -15,6 +15,7 @@ TradingView historical data downloader and market data archival tool.
 - python
 - financial-data
 - timeseries
+- data vault
 
 ---- 
 
