@@ -1,0 +1,48 @@
+{
+    "integrity": {
+        "content_hash": "a89d4ab16665a7c03f459f4109c3c6f94d6bfae3bb6422a8e736f19436b9f82e",
+        "hash_algorithm": "SHA-256"
+    },
+    "metadata": {
+        "symbol": "XAUUSD",
+        "venue": "OANDA",
+        "time_period": "D1",
+        "source": "TradingView",
+        "exported_at": "2026-05-30T09:52:16.092408Z"
+    },
+    "download_parameters": {
+        "n_bars": 3,
+        "environment": "production",
+        "triggered_by": "automated_risk_runner",
+        "pipeline_run_id": "run_98234"
+    },
+    "data": [
+        {
+            "datetime": "2026-05-27T00:00:00",
+            "open": 4506.725,
+            "high": 4528.05,
+            "low": 4401.63,
+            "close": 4456.12,
+            "volume": 658786.0,
+            "row_hash": "e11ed57422ce8e1f6b00c5e5a9ffd9e8ce1a28623228fcca6d01e720542373b2"
+        },
+        {
+            "datetime": "2026-05-28T00:00:00",
+            "open": 4456.89,
+            "high": 4516.63,
+            "low": 4366.23,
+            "close": 4495.825,
+            "volume": 742856.0,
+            "row_hash": "5a14860d5fd0c66439e20f8d2c1bf763b7e4cd57024e86aa470c762ec20c48d4"
+        },
+        {
+            "datetime": "2026-05-29T00:00:00",
+            "open": 4497.085,
+            "high": 4595.33,
+            "low": 4488.975,
+            "close": 4540.53,
+            "volume": 638170.0,
+            "row_hash": "5fcaab015e1b99f25278aea23dec99579562c1642ac3915855413a5750c99d2b"
+        }
+    ]
+}
