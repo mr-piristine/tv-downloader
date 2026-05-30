@@ -5,13 +5,13 @@ build-backend = "hatchling.build"
 [project]
 name = "tv-downloader"
 dynamic = ["version"]
-description = ''
+description = 'A modular, object-oriented historical data downloader for TradingView.'
 readme = "README.md"
 requires-python = ">=3.8"
-license = "MIT"
+license = "Creative Commons - CC0 1.0 Universal"
 keywords = []
 authors = [
-  { name = "U.N. Owen", email = "void@some.where" },
+  { name = "S.P.", email = "sprstn@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/U.N. Owen/tv-downloader#readme"
-Issues = "https://github.com/U.N. Owen/tv-downloader/issues"
-Source = "https://github.com/U.N. Owen/tv-downloader"
+Documentation = "https://github.com/mr-piristine/tv-downloader#readme"
+Issues = "https://github.com/mr-piristine/tv-downloader/issues"
+Source = "https://github.com/mr-piristine/tv-downloader"
 
 [tool.hatch.version]
 path = "src/tv_downloader/__about__.py"
